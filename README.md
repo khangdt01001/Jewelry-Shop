@@ -1,2 +1,2 @@
 # Jewlry-Shop
-Jewelry Shop
+Jewelry Shop - Individual projec

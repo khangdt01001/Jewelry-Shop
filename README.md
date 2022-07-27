@@ -1,2 +1,2 @@
 # Jewlry-Shop
-Jewelry Shop - Individual projec (Spring 22/03/2022)
+Jewelry Shop - The first individual project (Spring: 17/02/2022 - 22/03/2022)
